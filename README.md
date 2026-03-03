@@ -69,7 +69,7 @@ webscout/
 ### Installation
 
 ```bash
-git clone https://github.com/mursalin/webscout.git
+git clone https://github.com/themursalin/webscout.git
 cd webscout
 pip install -r requirements.txt
 ```
