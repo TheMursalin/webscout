@@ -2,7 +2,7 @@
 
 **Web Application Vulnerability & Technology Scanner**
 
-> Built by [Mursalin](https://github.com/mursalin) · Python · CLI + HTML Reports
+> Built by [Mursalin](https://github.com/themursalin) · Python · CLI + HTML Reports
 
 ---
 
